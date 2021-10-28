@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">195410004_DWI SETIYO ANDONO</string>
+    <string name="pinjaman">Jumlah Pinjaman</string>
+    <string name="jumlah">pilihan Harian, Mingguan, atau Bulanan ?</string>
+    <string name="Tenor">Tenor</string>
+    <string name="harian">Harian</string>
+    <string name="bulanan">Bulanan</string>
+    <string name="mingguan">Mingguan</string>
+    <string name="ajukan">Ajukan</string>
+    <string name="status">Pinjaman berhasil !!!</string>
+    <string name="jumlah_pinjaman">%s</string>
+    <string name="jumlah_hari">Tenor: %s %s</string>
+    <string name="jumlah_bunga">Bunga: %s</string>
+    <string name="copyright">© 2021 Dwi Setiyo Andono</string>
+    <string name="andono">andono</string>
+    <string name="judul">RENTENIR ANDONO</string>
+    <string name="todo">TODO</string>
+</resources>
